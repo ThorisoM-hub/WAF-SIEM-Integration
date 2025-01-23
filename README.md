@@ -176,6 +176,3 @@ By following this guide, you’ve learned how to:
 - Configure **Splunk** for SIEM functionality.
 - Simulate common web application attacks and detect them in Splunk.
 
-With this knowledge, you are better prepared for **Security Operations Center (SOC)** roles, including skills in incident investigation, log analysis, and alert management.
-
-Feel free to explore
