@@ -176,3 +176,4 @@ By following this guide, you’ve learned how to:
 - Configure **Splunk** for SIEM functionality.
 - Simulate common web application attacks and detect them in Splunk.
 
+These skills are critical for roles in Security Operations where you'll be responsible for incident investigation, log analysis, and alert management. With this knowledge, you are well-equipped to effectively manage security incidents and contribute to strengthening an organization’s overall security posture.
