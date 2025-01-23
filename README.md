@@ -1,8 +1,8 @@
-# WAF + SIEM Integration Project: ModSecurity & Splunk
+ WAF + SIEM Integration Project: ModSecurity & Splunk
 
 ## Overview
 
-This project integrates **ModSecurity** (a Web Application Firewall) with **Splunk** (a Security Information and Event Management platform) to create a real-time security monitoring system for web applications. The setup is optimized for an Intel Celeron, 8 GB RAM system, using **XAMPP** for Apache, with ModSecurity for WAF protection, and Splunk for log aggregation and alerting.
+This project integrates **ModSecurity** (a Web Application Firewall) with **Splunk** (a Security Information and Event Management platform) to create a real-time security monitoring system for web applications.using **XAMPP** for Apache, with ModSecurity for WAF protection, and Splunk for log aggregation and alerting.
 
 ## Features
 
